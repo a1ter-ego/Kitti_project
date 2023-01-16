@@ -30,7 +30,7 @@ y = P2 * R0_rect *Tr_velo_to_cam * x
 ## 3. 效果图片展示：
 
 二维成像：
-![2D效果图](../2D.png "二维点云图")
+![2D效果图](https://github.com/Bizarrer/images/blob/main/images/2D.png?raw=true "二维点云图")
 
 三维成像：
-![3D效果图](../3D.png "三维点云图")
+![3D效果图](https://github.com/Bizarrer/images/blob/main/images/3D.png?raw=true "三维点云图")
